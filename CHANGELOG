@@ -1,0 +1,19 @@
+4/15/24
+5:00pm: Started assignment-1.09
+5:45pm: Added inventory system
+5:55pm: Added Pokemart refresh + changed dialogue
+6:50pm: Added Pokemon HP and Pokemon Center
+8:50pm: Added initial trainer battle function
+9:20pm: Added item usage for battles
+
+4/16/24
+3:30pm: Added Pokemon switching during battles
+5:00pm: Added initial wild Pokemon capture
+5:30pm: Fixed issue with Pokemon not being captured but ball is used
+6:45pm: Fixed issue where trainer will battle even after being defeated
+
+4/17/24
+8:00pm: Fixed issue where if first pokemon faints, you lose even if you have more
+11:00pm: Fixed Segmentation Fault error
+11:10pm: Added check to fix problem where attacks sometimes adds hp
+11:40pm: Fixed issue where encountered Pokemon will be "captured" even with max party
